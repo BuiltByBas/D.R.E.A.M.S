@@ -11,7 +11,7 @@ the decisions, and the context carry forward instead of resetting every time the
 
 ## See it
 
-- **Showcase:** https://builtbybas.github.io/D.R.E.A.M.S/showcase/
+- **Showcase:** https://dreamsarchitecture.com
 - **BuiltByBas:** https://builtbybas.com
 
 ## About
